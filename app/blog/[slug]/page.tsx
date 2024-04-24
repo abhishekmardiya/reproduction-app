@@ -9,5 +9,5 @@ export default async function Home({
     slug,
   });
 
-  return null;
+  return <h1>Blog Detailed Page</h1>;
 }
